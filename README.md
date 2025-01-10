@@ -1,19 +1,13 @@
-- FullStack Developer (Frontend + Backend + DevOps).
-- Reading tech documentation whenever possible.
-- Learning AI.
+<h1 align="center"> Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
----
+## 🙋‍♂️ About Me
 
-### Connect With Me:
+- 🔭 FullStack Developer (Frontend + Backend + DevOps).
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rjsaran94)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjsaran/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saran_ramjeet)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RamjeetSaran)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saran.ramjeet@gmail.com)
+- 🌱 Learning AI these days.
 
----
 
-### Languages and Tools:
+## 🚀 Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
@@ -31,4 +25,9 @@
 ![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
 
----
+## Connect With Me:
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rjsaran94)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjsaran/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saran_ramjeet)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RamjeetSaran)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saran.ramjeet@gmail.com)
